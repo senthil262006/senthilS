@@ -1,4 +1,4 @@
-I'm **[Vijayabalan](https://www.linkedin.com/in/vijaystack/)** ; aka **Vijay**. 
+I'm **[Senthil](https://www.linkedin.com/in/senthilcloud/)** ; aka **Vijay**. 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
@@ -8,7 +8,7 @@ An Computer Cleaner born and raised in **Kumbakonam/India** and currently settle
 
 - :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaystack/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
+- :mailbox: Reach me **[LinkedIn](www.linkedin.com/in/senthilcloud/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
 
 # My Life Story
 
@@ -68,7 +68,7 @@ An Computer Cleaner born and raised in **Kumbakonam/India** and currently settle
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
+Mail - senthil262006@gmail.com
   
 ## join our Discord Channel
 
