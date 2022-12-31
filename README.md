@@ -1,4 +1,4 @@
-I'm **[Senthil](https://www.linkedin.com/in/senthilcloud/)** ; aka **Vijay**. 
+I'm **[Senthil](https://www.linkedin.com/in/senthilcloud/)** ; 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
