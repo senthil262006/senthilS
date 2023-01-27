@@ -2,30 +2,14 @@ I'm **[Senthil](https://www.linkedin.com/in/senthilcloud/)** ;
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
-An Computer Cleaner born and raised in **Kumbakonam/India** and currently settled in **Belgium/Europe**.Currently working in European Commission as an Senior Architect.
+An Computer Cleaner born and raised in **Paramakudi/India** and currently settled in **Dubai/UAE**.Currently working in EMAAR IT behalf of Intertec systems  as an Cloud Engneer.
 
 - :YouTube: I am helping technology and mentoring videos via my **[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
 - :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
-- :mailbox: Reach me **[LinkedIn](www.linkedin.com/in/senthilcloud/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
-
-# My Life Story
-
-[![Watch the video](ctotalk.jpeg)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
-
-- :newspaper: Computer Cleaner to Senior Architect **[My Life Journey](https://www.linkedin.com/feed/update/urn:li:activity:6925568536266317824/)**.
-
-
-[![Watch the video](believeyourself.png)](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)
-
-- :newspaper: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)**.
-
-[![Watch the video](journey.png)](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)
-
-- :newspaper: "𝐈 𝐧𝐞𝐯𝐞𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐭𝐡𝐚𝐭 𝐈 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐚 𝐦𝐞𝐧𝐭𝐨𝐫/𝐭𝐫𝐚𝐢𝐧𝐞𝐫.𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐂𝐥𝐞𝐚𝐧𝐞𝐫 𝐭𝐨 𝐑𝐞-𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 😊" **[𝐑𝐚𝐢𝐬𝐞𝐝 𝟒𝟓𝟎𝟎𝟎 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞𝐢𝐫 𝐨𝐰𝐧 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)**.
-
---- 
+- :mailbox: Reach me **[LinkedIn](www.linkedin.com/in/senthilcloud/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) 
+#
 # :tv: YouTube - Latest Videos
 
 - [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
@@ -45,24 +29,10 @@ An Computer Cleaner born and raised in **Kumbakonam/India** and currently settle
 - [IT Job Questions Confidence](https://www.youtube.com/playlist?list=PLh_VNk4-EHTOWg4VL7_v_Ql7DsNW0DGtn)
 
 ## Connect with me  
-<a href="https://github.com/cloudnloud" target="_blank">
+<a href="https://github.com/senthil262006" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/vijaystack" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/vijayabalan.balakrishnan" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bvijaycom" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.youtube.com/user/cloudnloud" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
@@ -89,7 +59,7 @@ Mail - senthil262006@gmail.com
 
 <p align="left">
 <a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/vijaystack"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vijayabalan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://linkedin.com/in/senthilcloud"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vijayabalan-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
