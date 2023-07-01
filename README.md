@@ -2,15 +2,16 @@ I'm **[Senthil](https://www.linkedin.com/in/senthilcloud/)** ;
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
-An Computer Cleaner born and raised in **Paramakudi/India** and currently settled in **Dubai/UAE**.Currently working in EMAAR IT behalf of Intertec systems  as an Cloud Engneer.
+I come from a middle-class family and was born in Thangachimadam a small Village , located in the Ramanathapuram District of Tamilnadu. Throughout my life, I have lived in various regions of Tamilnadu, and Maharashtra. I am the eldest and have one brother,s. My nuclear family resides in Chennai, while my parents live in my native. 
 
-- :YouTube: I am helping technology and mentoring videos via my **[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+currently settled in **Dubai/UAE**.Currently working in EMAAR IT behalf of Intertec systems  as an Cloud Engneer.
+
 
 - :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
-- :mailbox: Reach me **[LinkedIn](www.linkedin.com/in/senthilcloud/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) 
+- :mailbox: Reach me **[LinkedIn](www.linkedin.com/in/senthilcloud/)** 
 #
-# :tv: YouTube - Latest Videos
+
 
 
 ## Connect with me  
@@ -33,8 +34,6 @@ Mail - senthil262006@gmail.com
 
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
@@ -42,11 +41,9 @@ Mail - senthil262006@gmail.com
 
 ## 🤝🏻 Let's Keep in Touch
 
-<p align="left">
-<a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/senthilcloud"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vijayabalan-blue?style=flat-square&logo=linkedin"></a>
+
 <a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
+
 
 ## 🐦 Latest Tweets
 
