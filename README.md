@@ -26,8 +26,9 @@
 
    ## AWS 
   ### Training Notes
-- [Simplifying Data Transfer: AWS Service Gateway for Attaching S3 Bucket and EC2 Instance](https://medium.com/cloudnloud/introduction-130e817038ee)	
   ### Work notes
+  
+- [Simplifying Data Transfer: AWS Service Gateway for Attaching S3 Bucket and EC2 Instance](https://medium.com/cloudnloud/introduction-130e817038ee)	
   	- []() 
 	
  	ORACLE Cloud 
