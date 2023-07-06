@@ -15,6 +15,47 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+## 1. Operating Systems
+
+	RHEL 
+	Training Notes
+	
+	Work notes
+
+2. Cloud 
+
+    AWS 
+	Training Notes
+	
+	Work notes
+	
+ 	ORACLE Cloud 
+	Training Notes
+	
+	Work notes
+	
+3 Configration Management 
+
+	Ansible 
+	Training Notes
+	
+	Work notes
+	
+	
+4.  Containeration	
+	Docker
+	Training Notes
+	
+	Work notes
+
+
+5. Kubernetes
+   Training Notes
+   Work notes
+   
+6. Database
+   Training Notes
+   Work notes
 
 
 <!-- BLOG-POST-LIST:END -->
