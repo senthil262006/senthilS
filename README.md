@@ -31,7 +31,8 @@ Mail - senthil262006@gmail.com
 [![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
 
 <br/>  
-### 1. Operating Systems
+<br/>
+## 1. Operating Systems
 
 	RHEL 
 	Training Notes
@@ -75,7 +76,7 @@ Mail - senthil262006@gmail.com
 
 
 
-<br/>
+
 
 ---
 
