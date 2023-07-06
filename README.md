@@ -20,7 +20,7 @@
   ### Training Notes
 - [Day1 — Red Hat Certified System Administrator(RHCSA)](https://medium.com/cloudnloud/day1-red-hat-certified-system-administrator-rhca-e0563874ea45) 	
   ### Work notes
-  	- []() 
+- [𝗦𝗲𝘁𝘂𝗽 𝗮𝗻𝗱 𝗠𝗮𝗻𝗮𝗴𝗲 𝗟𝗼𝗴 𝗥𝗼𝘁𝗮𝘁𝗶𝗼𝗻 𝗨𝘀𝗶𝗻𝗴 𝗟𝗼𝗴𝗿𝗼𝘁𝗮𝘁𝗲 𝗶𝗻 𝗟𝗶𝗻𝘂𝘅 𝟳.𝗫/𝟴.𝗫](https://medium.com/cloudnloud/setup-and-manage-log-rotation-using-logrotate-in-linux-7-x-8-x-c214de05021e) 
 
 # 2. Cloud 
 
