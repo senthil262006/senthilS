@@ -15,7 +15,7 @@
 - 📫 How to reach me **senthil262006@gmail.com**
 
 ### Blogs posts
-# :tv: YouTube - Latest Videos
+# 1. YouTube - Latest Videos
 
 - [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
 - [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
