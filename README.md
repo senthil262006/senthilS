@@ -18,7 +18,7 @@
 # 1.Operating Systems
   ## RHEL 
   ### Training Notes
-- []() 	
+- [Day1 — Red Hat Certified System Administrator(RHCSA)](https://medium.com/cloudnloud/day1-red-hat-certified-system-administrator-rhca-e0563874ea45) 	
   ### Work notes
   	- []() 
 	
