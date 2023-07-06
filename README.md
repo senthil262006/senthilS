@@ -31,7 +31,47 @@ Mail - senthil262006@gmail.com
 [![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
 
 <br/>  
-#AWS
+### 1. Operating Systems
+
+	RHEL 
+	Training Notes
+	
+	Work notes
+
+2. Cloud 
+
+    AWS 
+	Training Notes
+	
+	Work notes
+	
+ 	ORACLE Cloud 
+	Training Notes
+	
+	Work notes
+	
+3 Configration Management 
+
+	Ansible 
+	Training Notes
+	
+	Work notes
+	
+	
+4.  Containeration	
+	Docker
+	Training Notes
+	
+	Work notes
+
+
+5. Kubernetes
+   Training Notes
+   Work notes
+   
+6. Database
+   Training Notes
+   Work notes
 
 
 
