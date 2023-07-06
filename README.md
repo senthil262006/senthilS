@@ -26,7 +26,7 @@
 
    ## AWS 
   ### Training Notes
-- [Simplifying Data Transfer: AWS Service Gateway for Attaching S3 Bucket and EC2 Instance]([https://medium.com/cloudnloud/day1-red-hat-certified-system-administrator-rhca-e0563874ea45](https://medium.com/cloudnloud/introduction-130e817038ee)) 	
+- [Simplifying Data Transfer: AWS Service Gateway for Attaching S3 Bucket and EC2 Instance]([https://medium.com/cloudnloud/day1-red-hat-certified-system-administrator-rhca-e0563874ea45](https://medium.com/cloudnloud/introduction-130e817038ee)	
   ### Work notes
   	- []() 
 	
