@@ -24,7 +24,7 @@
 
 # 2. Cloud 
 
-    ## AWS 
+    AWS 
 	Training Notes
 	
 	Work notes
@@ -36,26 +36,35 @@
 	
 # 3 Configration Management 
 
-    ## Ansible 
+   Ansible 
 	Training Notes
 	
 	Work notes
 	
 # 4.  Containeration	
-	Docker
+	
+   Docker
 	Training Notes
 	
 	Work notes
 
 # 5. Kubernetes
-   Training Notes
-   Work notes
+
+       Training Notes
+   
+       Work notes
    
 # 6. Database
-   Training Notes
-   Work notes
    
-# 7 Programing longuages   
+      Training Notes
+  
+      Work notes
+   
+# 7 Programing longuages  
+
+  Python
+
+   Training Notes
    
 
 
