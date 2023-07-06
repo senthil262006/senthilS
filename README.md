@@ -15,14 +15,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-### 1. Operating Systems
+# 1. Operating Systems
 
 	RHEL 
 	Training Notes
 	
 	Work notes
 
-## 2. Cloud 
+# 2. Cloud 
 
     AWS 
 	Training Notes
