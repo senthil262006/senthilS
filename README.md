@@ -25,16 +25,15 @@
 # 2. Cloud 
 
    ## AWS 
-  ### Training Notes
-  ### Work notes
+   ### Training Notes
+   ### Work notes
   
 - [Simplifying Data Transfer: AWS Service Gateway for Attaching S3 Bucket and EC2 Instance](https://medium.com/cloudnloud/introduction-130e817038ee)	
 - [Scalable Network Architecture in AWS Hub and Spoke using AWS Transit Gateway](https://medium.com/cloudnloud/introduction-5a3a2bad8567) 
 	
- 	ORACLE Cloud 
-	Training Notes
-	
-	Work notes
+    ## ORACLE Cloud 
+    ### Training Notes
+    ### Work notes
 	
 # 3 Configration Management 
 
