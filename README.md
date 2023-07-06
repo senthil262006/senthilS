@@ -38,6 +38,7 @@
 # 3 Configration Management 
 
    Ansible 
+   
 	Training Notes
 	
 	Work notes
@@ -45,6 +46,7 @@
 # 4.  Containerization	
 	
    Docker
+   
 	Training Notes
 	
 	Work notes
