@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Kubernetes and Data Science**
 
 - 📝 I regularly write articles on [@Senthil](@Senthil)
+- :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
 - 📫 How to reach me **senthil262006@gmail.com**
 
@@ -19,7 +20,7 @@
 
 	RHEL 
 	Training Notes
-	- [EMAAR IT behalf of Intertec Systems](https://www.intertecsystems.com/)
+	
 	Work notes
 
 # 2. Cloud 
