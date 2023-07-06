@@ -21,28 +21,14 @@
 - [Day1 — Red Hat Certified System Administrator(RHCSA)](https://medium.com/cloudnloud/day1-red-hat-certified-system-administrator-rhca-e0563874ea45) 	
   ### Work notes
   	- []() 
-	
-
-- [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
-- [AZURE Administration - Full Course](https://www.youtube.com/watch?v=3WW95LThR0k&list=PLh_VNk4-EHTPgpEEUkj4G7gXqV47yIz7r)
-- [Ansible Administration - Full Course](https://www.youtube.com/watch?v=LhKucikHpVs&list=PLh_VNk4-EHTNbb18pkpZy_fnG2Dn0n6QR)
-- [DevOps - Jenkins CI/CD - Full Course](https://www.youtube.com/watch?v=rN6f8pyrOI8&list=PLh_VNk4-EHTN732T-CfM-7lG3fNpK__79)
-- [Docker Administration - Full Course](https://www.youtube.com/watch?v=ixtJg7EGlWw&list=PLh_VNk4-EHTP5rDgNYAWgg1vvcPG8eoIV)
-- [Kubernetes Administration - Full Course](https://www.youtube.com/watch?v=lv6AZCBbQ9Y&list=PLh_VNk4-EHTMhIR-NIgI4tCEHdO9U-A8F)
-
-- [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
-<!-- BLOG-POST-LIST:START -->
-# 1. Operating Systems
-
-	RHEL 
-	
 
 # 2. Cloud 
 
-    AWS 
-	Training Notes
-	
-	Work notes
+   ## AWS 
+  ### Training Notes
+- [Day1 — Red Hat Certified System Administrator(RHCSA)](https://medium.com/cloudnloud/day1-red-hat-certified-system-administrator-rhca-e0563874ea45) 	
+  ### Work notes
+  	- []() 
 	
  	ORACLE Cloud 
 	Training Notes
