@@ -15,6 +15,8 @@
 - 📫 How to reach me **senthil262006@gmail.com**
 
 ### Blogs posts
+
+- [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
 <!-- BLOG-POST-LIST:START -->
 # 1. Operating Systems
 
