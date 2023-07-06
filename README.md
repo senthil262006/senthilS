@@ -17,7 +17,7 @@
 ### Blogs posts
 # 1.Operating Systems
   ## RHEL 
-  Training Notes
+  ### Training Notes
 - []() 	
   Work notes
   	- []() 
