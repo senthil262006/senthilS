@@ -18,7 +18,7 @@
 # 1.Operating Systems
   RHEL 
   Training Notes
-	- []() 	
+- []() 	
   Work notes
   	- []() 
 	
