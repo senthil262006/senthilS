@@ -15,6 +15,15 @@
 - 📫 How to reach me **senthil262006@gmail.com**
 
 ### Blogs posts
+# :tv: YouTube - Latest Videos
+
+- [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
+- [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
+- [AZURE Administration - Full Course](https://www.youtube.com/watch?v=3WW95LThR0k&list=PLh_VNk4-EHTPgpEEUkj4G7gXqV47yIz7r)
+- [Ansible Administration - Full Course](https://www.youtube.com/watch?v=LhKucikHpVs&list=PLh_VNk4-EHTNbb18pkpZy_fnG2Dn0n6QR)
+- [DevOps - Jenkins CI/CD - Full Course](https://www.youtube.com/watch?v=rN6f8pyrOI8&list=PLh_VNk4-EHTN732T-CfM-7lG3fNpK__79)
+- [Docker Administration - Full Course](https://www.youtube.com/watch?v=ixtJg7EGlWw&list=PLh_VNk4-EHTP5rDgNYAWgg1vvcPG8eoIV)
+- [Kubernetes Administration - Full Course](https://www.youtube.com/watch?v=lv6AZCBbQ9Y&list=PLh_VNk4-EHTMhIR-NIgI4tCEHdO9U-A8F)
 
 - [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
 <!-- BLOG-POST-LIST:START -->
