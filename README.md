@@ -63,7 +63,7 @@
   
       Work notes
    
-# 7 Programing longuages  
+# 7. Programing longuages  
 
   Python
 
