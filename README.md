@@ -19,7 +19,7 @@
 
 	RHEL 
 	Training Notes
-	
+	- [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
 	Work notes
 
 # 2. Cloud 
