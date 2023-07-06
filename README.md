@@ -42,7 +42,7 @@
 	
 	Work notes
 	
-# 4.  Containeration	
+# 4.  Containerization	
 	
    Docker
 	Training Notes
