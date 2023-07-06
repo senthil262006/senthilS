@@ -19,7 +19,7 @@
 
 	RHEL 
 	Training Notes
-	[EMAAR IT behalf of Intertec Systems](https://www.intertecsystems.com/)
+	- [EMAAR IT behalf of Intertec Systems](https://www.intertecsystems.com/)
 	Work notes
 
 # 2. Cloud 
