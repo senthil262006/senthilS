@@ -16,7 +16,8 @@
 
 ### Blogs posts
 # 1.Operating Systems
-
+  RHEL 
+	
 - []() 
 - [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
 - [AZURE Administration - Full Course](https://www.youtube.com/watch?v=3WW95LThR0k&list=PLh_VNk4-EHTPgpEEUkj4G7gXqV47yIz7r)
