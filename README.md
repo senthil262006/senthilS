@@ -67,6 +67,8 @@
 
   Python
 
+  [Python notes](https://github.com/senthil262006/Python_basics/blob/master/Python%20Notes.ipynb) 	
+
    Training Notes
    
 
