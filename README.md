@@ -37,7 +37,7 @@
 	
 # 3 Configration Management 
 
-   Ansible 
+    Ansible 
    
 	Training Notes
 	
@@ -59,7 +59,7 @@
    
 # 6. Database
    
-      ###Training Notes
+     Training Notes
       
 - [𝑫𝒂𝒚 1 - 𝐒𝐐𝐋 𝐁𝐚𝐬𝐢𝐜𝐬](https://medium.com/cloudnloud/mysql-86b4c39530f7) 	
 
@@ -67,13 +67,13 @@
 
 - [𝐃𝐚𝐲 3 - 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 ](https://medium.com/cloudnloud/mysql-9adbbc8c62d0)
 
-- [𝑫𝒂𝒚 5 - 𝐃𝐃𝐋 — 𝐃𝐚𝐭𝐚 𝐝𝐞𝐟𝐢𝐧𝐢𝐭𝐢𝐨𝐧]  (https://medium.com/cloudnloud/mysql-f743ae039f0)
+- [𝑫𝒂𝒚 5 - 𝐃𝐃𝐋 — 𝐃𝐚𝐭𝐚 𝐝𝐞𝐟𝐢𝐧𝐢𝐭𝐢𝐨𝐧](https://medium.com/cloudnloud/mysql-f743ae039f0)
 
 - [𝑫𝒂𝒚 6 - 𝐃𝐌𝐋 — 𝐃𝐚𝐭𝐚 𝐌𝐚𝐧𝐢𝐩𝐮𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞](https://medium.com/cloudnloud/mysql-df03d427a5a5)
 
-- [𝑫𝒂𝒚 7 - 𝐃𝐑𝐋/𝐃𝐐𝐋 — 𝐃𝐚𝐭𝐚 𝐫𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥/𝐪𝐮𝐞𝐫𝐲 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞] (https://medium.com/cloudnloud/mysql-4dc246a07fe3)
+- [𝑫𝒂𝒚 7 - 𝐃𝐑𝐋/𝐃𝐐𝐋 — 𝐃𝐚𝐭𝐚 𝐫𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥/𝐪𝐮𝐞𝐫𝐲 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞](https://medium.com/cloudnloud/mysql-4dc246a07fe3)
 
-- [𝑫𝒂𝒚 8 - 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 ] (https://medium.com/cloudnloud/mysql-6034581985c0)
+- [𝑫𝒂𝒚 8 - 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 ](https://medium.com/cloudnloud/mysql-6034581985c0)
   
       Work notes
    
