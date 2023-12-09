@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Kubernetes and Data Science**
 
 - 📝 I regularly write articles on [@Senthil](@Senthil)
-- :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
+- :newspaper: I contribute back to the technical blobgs via **[Medium Blogs](https://www.cloudnloud.com/](https://medium.com/me/stories/public))**.
 
 - 📫 How to reach me **senthil262006@gmail.com**
 
