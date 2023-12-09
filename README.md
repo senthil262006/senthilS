@@ -100,8 +100,9 @@
     Training Notes
 
     Work notes
-    
-     - [Python notes]Python Notes.ipynb) 
+
+     
+     - [Python notes](https://github.com/senthil262006/Python_basics/blob/master/Python%20Notes.ipynb)
    
 
 
