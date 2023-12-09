@@ -67,29 +67,29 @@
 
 - [𝐃𝐚𝐲 3 - 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 ](https://medium.com/cloudnloud/mysql-9adbbc8c62d0)
 
-- [𝑫𝒂𝒚 5 - 𝐃𝐃𝐋 — 𝐃𝐚𝐭𝐚 𝐝𝐞𝐟𝐢𝐧𝐢𝐭𝐢𝐨𝐧]  (https://medium.com/cloudnloud/mysql-f743ae039f0)
+- [𝑫𝒂𝒚 5 - 𝐃𝐃𝐋 — 𝐃𝐚𝐭𝐚 𝐝𝐞𝐟𝐢𝐧𝐢𝐭𝐢𝐨𝐧](https://medium.com/cloudnloud/mysql-f743ae039f0)
 
 - [𝑫𝒂𝒚 6 - 𝐃𝐌𝐋 — 𝐃𝐚𝐭𝐚 𝐌𝐚𝐧𝐢𝐩𝐮𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞](https://medium.com/cloudnloud/mysql-df03d427a5a5)
 
-- [𝑫𝒂𝒚 7 - 𝐃𝐑𝐋/𝐃𝐐𝐋 — 𝐃𝐚𝐭𝐚 𝐫𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥/𝐪𝐮𝐞𝐫𝐲 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞] (https://medium.com/cloudnloud/mysql-4dc246a07fe3)
+- [𝑫𝒂𝒚 7 - 𝐃𝐑𝐋/𝐃𝐐𝐋 — 𝐃𝐚𝐭𝐚 𝐫𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥/𝐪𝐮𝐞𝐫𝐲 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞](https://medium.com/cloudnloud/mysql-4dc246a07fe3)
 
-- [𝑫𝒂𝒚 9 - 𝐏𝐚𝐭𝐭𝐞𝐫𝐧 𝐦𝐚𝐭𝐜𝐡𝐢𝐧𝐠(𝐰𝐢𝐥𝐝 𝐜𝐚𝐫𝐝 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫𝐬) ] (https://medium.com/cloudnloud/my-sql-8b8820013252)
+- [𝑫𝒂𝒚 9 - 𝐏𝐚𝐭𝐭𝐞𝐫𝐧 𝐦𝐚𝐭𝐜𝐡𝐢𝐧𝐠(𝐰𝐢𝐥𝐝 𝐜𝐚𝐫𝐝 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫𝐬) ](https://medium.com/cloudnloud/my-sql-8b8820013252)
 
-- [𝑫𝒂𝒚 10 - 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬 ] (https://medium.com/cloudnloud/my-sql-functions-day-10-a50c89b0c512)
+- [𝑫𝒂𝒚 10 - 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬 ](https://medium.com/cloudnloud/my-sql-functions-day-10-a50c89b0c512)
 
-- [𝑫𝒂𝒚 11 - 𝐠𝐫𝐨𝐮𝐩 𝐁𝐲, 𝐇𝐚𝐯𝐢𝐧𝐠, 𝐎𝐫𝐝𝐞𝐫 𝐛𝐲 ] (https://medium.com/cloudnloud/mysql-6034581985c0)
+- [𝑫𝒂𝒚 11 - 𝐠𝐫𝐨𝐮𝐩 𝐁𝐲, 𝐇𝐚𝐯𝐢𝐧𝐠, 𝐎𝐫𝐝𝐞𝐫 𝐛𝐲 ](https://medium.com/cloudnloud/mysql-6034581985c0)
 
-- [𝑫𝒂𝒚 12 - 𝐈𝐧𝐭𝐞𝐠𝐫𝐢𝐭𝐲 𝐂𝐨𝐧𝐬𝐭𝐫𝐚𝐢𝐧𝐭𝐬 ] (https://medium.com/cloudnloud/my-sql-90072a446c92)
+- [𝑫𝒂𝒚 12 - 𝐈𝐧𝐭𝐞𝐠𝐫𝐢𝐭𝐲 𝐂𝐨𝐧𝐬𝐭𝐫𝐚𝐢𝐧𝐭𝐬 ](https://medium.com/cloudnloud/my-sql-90072a446c92)
 
-- [𝑫𝒂𝒚 13 - 𝐒𝐄𝐓 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 ] (https://medium.com/cloudnloud/mysql-234dc7d78959)
+- [𝑫𝒂𝒚 13 - 𝐒𝐄𝐓 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 ](https://medium.com/cloudnloud/mysql-234dc7d78959)
 
-- [𝑫𝒂𝒚 14 - 𝐉𝐨𝐢𝐧𝐬 𝐨𝐧 𝐌𝐲𝐒𝐐𝐋 ] (https://medium.com/cloudnloud/mysql-19a932b7f6b4)
+- [𝑫𝒂𝒚 14 - 𝐉𝐨𝐢𝐧𝐬 𝐨𝐧 𝐌𝐲𝐒𝐐𝐋 ](https://medium.com/cloudnloud/mysql-19a932b7f6b4)
 
-- [𝑫𝒂𝒚 15 - Views 𝐨𝐧 𝐌𝐲𝐒𝐐𝐋 ] (https://medium.com/cloudnloud/mysql-290d2e2944bc)
+- [𝑫𝒂𝒚 15 - Views 𝐨𝐧 𝐌𝐲𝐒𝐐𝐋 ](https://medium.com/cloudnloud/mysql-290d2e2944bc)
 
-- [𝑫𝒂𝒚 16 - Index 𝐨𝐧 𝐌𝐲𝐒𝐐𝐋 ] (https://medium.com/cloudnloud/mysql-431a729d9c38)
+- [𝑫𝒂𝒚 16 - Index 𝐨𝐧 𝐌𝐲𝐒𝐐𝐋 ](https://medium.com/cloudnloud/mysql-431a729d9c38)
 
-- [𝑫𝒂𝒚 17 - CTE(common Table expression) 𝐨𝐧 𝐌𝐲𝐒𝐐𝐋 ] (https://medium.com/cloudnloud/mysql-5178302d7f49)
+- [𝑫𝒂𝒚 17 - CTE(common Table expression) 𝐨𝐧 𝐌𝐲𝐒𝐐𝐋 ](https://medium.com/cloudnloud/mysql-5178302d7f49)
   
       Work notes
    
