@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [EMAAR IT behalf of Intertec Systems](https://www.intertecsystems.com/)
 
-- 🌱 I’m currently learning **Kubernetes and Data Science**
+- 🌱 I’m currently learning **  Data Science and Kubernetes**
 
 - 📝 I regularly write articles on [@Senthil](@Senthil)
 - :newspaper: I contribute back to the technical blobgs via **[Medium Blogs](https://www.cloudnloud.com/](https://medium.com/me/stories/public))**.
