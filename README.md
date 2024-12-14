@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senthil S</h1>
-<h3 align="center">I come from a middle-class family and was born in southnpart of tamilnadu , located in the Ramanathapuram District of Tamilnadu. Throughout my life, I have lived in various regions of Tamilnadu, and Maharashtra. I am the eldest and have one brother. My nuclear family resides in Chennai, while my parents live in my native.</h3>
+<h3 align="center">I come from a middle-class family and was born in southern part of tamilnadu , located in the Ramanathapuram District of Tamilnadu. Throughout my life, I have lived in various regions of Tamilnadu, and Maharashtra. I am the eldest and have one brother. My nuclear family resides in Chennai, while my parents live in my native.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senthil262006&label=Profile%20views&color=0e75b6&style=flat" alt="senthil262006" /> </p>
 
