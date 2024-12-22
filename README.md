@@ -71,8 +71,7 @@
      Training Notes
 
 
-    - [ Complete  - SQL Step by step ](https://buymeacoffee.com/senthil262s/sql-step-step) 
-      
+     
 - [𝑫𝒂𝒚 1 - 𝐒𝐐𝐋 𝐁𝐚𝐬𝐢𝐜𝐬](https://medium.com/cloudnloud/mysql-86b4c39530f7) 	
 
 - [𝑫𝒂𝒚 2 - 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐌𝐲𝐒𝐐𝐋, 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐒𝐐𝐋 𝐖𝐨𝐫𝐤𝐛𝐞𝐧𝐜𝐡 & 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐧𝐞 𝐂𝐥𝐢𝐞𝐧𝐭](https://medium.com/cloudnloud/mysql-bdd23f7309c3)
