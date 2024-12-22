@@ -67,8 +67,11 @@
        Work notes
    
 # 6. Database
-   
+   ]
      Training Notes
+
+
+    - [ Complete  - SQL Step by step ](https://buymeacoffee.com/senthil262s/sql-step-step) 
       
 - [𝑫𝒂𝒚 1 - 𝐒𝐐𝐋 𝐁𝐚𝐬𝐢𝐜𝐬](https://medium.com/cloudnloud/mysql-86b4c39530f7) 	
 
