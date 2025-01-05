@@ -56,7 +56,8 @@
 - [𝐃𝐚𝐲 3 - 𝐃𝐎𝐂𝐊𝐄𝐑 — 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫, 𝐈𝐦𝐚𝐠𝐞, 𝐇𝐮𝐛 ](https://medium.com/cloudnloud/-c766470f1107)
 
 - [𝐃𝐚𝐲 4 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Essential Docker Commands for Beginner ](https://medium.com/@senthil262006/day4-34fc48d1b4e8)
- 
+
+- [𝐃𝐚𝐲 5 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Docker Networking: A Practical Guide](https://medium.com/@senthil262006/day5-2772c03e685b)
 	
 	Work notes
 
