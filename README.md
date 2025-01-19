@@ -58,6 +58,8 @@
 - [𝐃𝐚𝐲 4 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Essential Docker Commands for Beginner ](https://medium.com/@senthil262006/day4-34fc48d1b4e8)
 
 - [𝐃𝐚𝐲 5 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Docker Networking: A Practical Guide](https://medium.com/@senthil262006/day5-2772c03e685b)
+
+- [𝐃𝐚𝐲 6 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Docker Volumes: A Step-by-Step Guide](https://medium.com/@senthil262006/day6-ba40601ba185)
 	
 	Work notes
 
