@@ -61,9 +61,9 @@
 
 - [𝐃𝐚𝐲 6 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Docker Volumes: A Step-by-Step Guide](https://medium.com/@senthil262006/day6-ba40601ba185)
 
-- [𝐃𝐚𝐲 7 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Dockerfile Guide: A Step-by-Step Guide]([https://medium.com/@senthil262006/day6-ba40601ba185](https://medium.com/@senthil262006/dockerfile-step-by-step-building-a-container-with-ubuntu-b74a9e60295b))
+- [𝐃𝐚𝐲 7 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Dockerfile Guide: A Step-by-Step Guide](https://medium.com/@senthil262006/dockerfile-step-by-step-building-a-container-with-ubuntu-b74a9e60295b)
 
-- [𝐃𝐚𝐲 8 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Docker Compose: A Step-by-Step Guide]([https://medium.com/@senthil262006/day6-ba40601ba185](https://medium.com/@senthil262006/day-8-docker-step-by-step-001c9b3d6d96))
+- [𝐃𝐚𝐲 8 - 𝐃𝐎𝐂𝐊𝐄𝐑 — Docker Compose: A Step-by-Step Guide](https://medium.com/@senthil262006/day-8-docker-step-by-step-001c9b3d6d96))
 	
 	Work notes
 
