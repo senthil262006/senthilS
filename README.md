@@ -69,7 +69,7 @@
 
 # 5. Kubernetes
 
-       - [𝑫𝒂𝒚 1 - Kubernetes — Introduction to Kubernetes — From Docker to the Cloud-Native Giant](https://medium.com/@senthil262006/introduction-to-kubernetes-from-docker-to-the-cloud-native-giant-0905e3b59d08)
+- [𝑫𝒂𝒚 1 - Kubernetes — Introduction to Kubernetes — From Docker to the Cloud-Native Giant](https://medium.com/@senthil262006/introduction-to-kubernetes-from-docker-to-the-cloud-native-giant-0905e3b59d08)
  
 - [𝑫𝒂𝒚 2 - Kubernetes — Understanding Kubernetes Architecture ](https://medium.com/@senthil262006/day-2-understanding-kubernetes-architecture-f7609666e87b) 
 
