@@ -69,6 +69,8 @@
 
 # 5. Kubernetes
 
+Training Notes
+
 - [𝑫𝒂𝒚 1 - Kubernetes — Introduction to Kubernetes — From Docker to the Cloud-Native Giant](https://medium.com/@senthil262006/introduction-to-kubernetes-from-docker-to-the-cloud-native-giant-0905e3b59d08)
  
 - [𝑫𝒂𝒚 2 - Kubernetes — Understanding Kubernetes Architecture ](https://medium.com/@senthil262006/day-2-understanding-kubernetes-architecture-f7609666e87b) 
@@ -79,10 +81,10 @@
 
 - [𝑫𝒂𝒚 5 - Kubernetes — Kubernetes Pod Restart Policies, pod error states ](https://medium.com/@senthil262006/learning-series-day-5-kubernetes-pod-restart-policies-pod-error-states-07fe721d14e6 )
 
-- [𝑫𝒂𝒚 6 - Kubernetes — Replica, ReplicaSet & Deployment ](https://medium.com/@senthil262006/kubernetes-learning-series-day-6-replica-replicaset-deployment-210c26946f8c )Training Notes
+- [𝑫𝒂𝒚 6 - Kubernetes — Replica, ReplicaSet & Deployment ](https://medium.com/@senthil262006/kubernetes-learning-series-day-6-replica-replicaset-deployment-210c26946f8c )
 	   
    
-       Work notes
+Work notes
    
 # 6. Database
    ]
