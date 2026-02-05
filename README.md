@@ -69,7 +69,17 @@
 
 # 5. Kubernetes
 
-       Training Notes
+       - [𝑫𝒂𝒚 1 - Kubernetes — Introduction to Kubernetes — From Docker to the Cloud-Native Giant](https://medium.com/@senthil262006/introduction-to-kubernetes-from-docker-to-the-cloud-native-giant-0905e3b59d08)
+ 
+- [𝑫𝒂𝒚 2 - Kubernetes — Understanding Kubernetes Architecture ](https://medium.com/@senthil262006/day-2-understanding-kubernetes-architecture-f7609666e87b) 
+
+- [𝑫𝒂𝒚 3 - Kubernetes — How to Install Kubernetes on RHEL: A Step-by-Step Guide for 2025 ](https://medium.com/@senthil262006/how-to-install-kubernetes-on-rhel-a-step-by-step-guide-for-2025-b2c8bd4f61e4)
+
+- [𝑫𝒂𝒚 4 - Kubernetes — Cluster Operations & pods namespaces and Operation ](https://medium.com/@senthil262006/kubernetes-learning-series-day-4-cluster-operations-pods-namespaces-and-operation-2a35d210e232 )
+
+- [𝑫𝒂𝒚 5 - Kubernetes — Kubernetes Pod Restart Policies, pod error states ](https://medium.com/@senthil262006/learning-series-day-5-kubernetes-pod-restart-policies-pod-error-states-07fe721d14e6 )
+
+- [𝑫𝒂𝒚 6 - Kubernetes — Replica, ReplicaSet & Deployment ](https://medium.com/@senthil262006/kubernetes-learning-series-day-6-replica-replicaset-deployment-210c26946f8c )Training Notes
 	   
    
        Work notes
