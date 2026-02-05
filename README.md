@@ -133,7 +133,7 @@ Work notes
     Work notes
 
      
-     - [Python notes](https://github.com/senthil262006/Python_basics/blob/master/Python%20Notes.html)
+- [Python notes]( https://medium.com/@senthil262006/learn-python-basics-with-hands-on-examples-my-complete-guide-5f86d2e40350?postPublishedType=initial )
    
 
 
